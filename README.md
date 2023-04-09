@@ -15,4 +15,4 @@ npm run dev
 
 ## 커밋 메세지 컨벤션
 
-[Git Commit Convention](GIT-CONVENTION)
+[Git Commit Convention](GIT-CONVENTION.md)
