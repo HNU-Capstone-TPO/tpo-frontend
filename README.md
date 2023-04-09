@@ -7,7 +7,7 @@ npm install # 처음만 진행
 npm run dev
 ```
 
-명령어 입력 후 [http://localhost:3000](http://localhost:3000)주소로 개발 서버를 실행한다.
+명령어 입력 후 [http://localhost:3000](http://localhost:3000) 주소로 개발 서버를 실행한다.
 
 ## 참고 문서
 
